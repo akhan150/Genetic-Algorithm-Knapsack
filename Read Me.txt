@@ -1,0 +1,6 @@
+//Adil Khan Knapsack Problem Genetic Algorithm
+These are the steps to run the program:
+1. GeneticKnapsack is the main program
+2. Compile all the java files with the following command: javac *.java
+3. Run the program with the following command: java GeneticKnapsack
+4. Check the output files to find the solutions to the respected inputs
